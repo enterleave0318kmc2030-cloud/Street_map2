@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.362465,
+          33.972804
+        ]
+      },
+      "properties": {
+        "id": "001",
+        "date": "2023/5/20",
+        "time": "12:59",
+        "Place": "HOME敷地内",
+        "situation": "ゴミ捨て行く時",
+        "lat": 33.972804,
+        "lng": 134.362465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3599412,
+          33.9737855
+        ]
+      },
+      "properties": {
+        "id": "003",
+        "date": "2024/6/24",
+        "time": "15:00",
+        "Place": "CLASSの入り口前",
+        "situation": "CLASSを出入りする時",
+        "lat": 33.9737855,
+        "lng": 134.3599412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3599412,
+          33.9737855
+        ]
+      },
+      "properties": {
+        "id": "005",
+        "date": "2024/6/23",
+        "time": "15:13",
+        "Place": "office教室棟の入口前",
+        "situation": "office教室棟を出入りする時",
+        "lat": 33.9737855,
+        "lng": 134.3599412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.362465,
+          33.972804
+        ]
+      },
+      "properties": {
+        "id": "006",
+        "date": "2025/06/14",
+        "time": "10:03",
+        "Place": "HOME体育館前",
+        "situation": "ローソンさんが来た時",
+        "lat": 33.972804,
+        "lng": 134.362465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3599412,
+          33.9737855
+        ]
+      },
+      "properties": {
+        "id": "007",
+        "date": "2024/10/11",
+        "time": "12:30",
+        "Place": "office教室棟の入口前",
+        "situation": "office教室棟を出入りする時",
+        "lat": 33.9737855,
+        "lng": 134.3599412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.363464,
+          33.973016
+        ]
+      },
+      "properties": {
+        "id": "009",
+        "date": "2026/05/24",
+        "time": "15:58",
+        "Place": "給食センター前の坂",
+        "situation": "おそらく歩いていた時",
+        "lat": 33.973016,
+        "lng": 134.363464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3601742,
+          33.97384345
+        ]
+      },
+      "properties": {
+        "id": "010",
+        "date": "2025/10/29",
+        "time": "15:00",
+        "Place": "Officeの段差",
+        "situation": "おそらく歩いていた時",
+        "lat": 33.97384345,
+        "lng": 134.3601742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3625561,
+          33.9728469
+        ]
+      },
+      "properties": {
+        "id": "011",
+        "date": "2026/06/01",
+        "time": "19:56",
+        "Place": "食堂裏の室外機",
+        "situation": "食堂の人が発見",
+        "lat": 33.9728469,
+        "lng": 134.3625561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.360312,
+          33.973678
+        ]
+      },
+      "properties": {
+        "id": "012",
+        "date": "2024/10/05",
+        "time": "13:09",
+        "Place": "officeの靴箱の脇",
+        "situation": "不明",
+        "lat": 33.973678,
+        "lng": 134.360312
+      }
+    }
+  ]
+}
